@@ -9,9 +9,9 @@ module Memorable
 end
 
 class Artist
-  extend MetaDancing
+  extend Memorable
 end
 
 class Song
-  extend MetaDancing
+  extend Memorable
 end
