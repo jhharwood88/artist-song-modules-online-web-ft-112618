@@ -2,6 +2,7 @@ require 'pry'
 
 class Song
   extend Memorable::ClassMethods
+  extend Findable::ClassMethods
 end
 
 class Song
