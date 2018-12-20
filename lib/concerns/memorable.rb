@@ -8,3 +8,10 @@ module Memorable
   end
 end
 
+class Artist
+  extend MetaDancing
+end
+
+class Song
+  extend MetaDancing
+end
